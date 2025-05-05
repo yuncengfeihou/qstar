@@ -1,6 +1,6 @@
 {
-    "display_name": "聊天收藏器",
-    "loading_order": 10,
+    "display_name": "qstar",
+    "loading_order": 3,
     "requires": [],
     "optional": [],
     "js": "index.js",
